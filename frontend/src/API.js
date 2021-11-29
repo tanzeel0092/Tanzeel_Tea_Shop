@@ -8,7 +8,7 @@ if (
 ) {
   baseURL = process.env.REACT_APP_API_BASE_URL;
 } else 
-  // baseURL = "https://backend-teashop-prasanna.herokuapp.com/";
+  baseURL = "https://backend-teashop-tanzeel.herokuapp.com/";
 
 const api = axios.create({
   baseURL: baseURL,
