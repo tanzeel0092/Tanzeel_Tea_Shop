@@ -125,7 +125,7 @@ ul.items li .info .name {
 }
 @media screen and (max-width: 900px) {
   ul.items li .info .name {
-    margin: -5% 0% 26% 10%;
+    margin: 0% 0% 27% 29%;
   }
 }
 ul.items li .info .info-bottom {
@@ -146,6 +146,7 @@ ul.items li .info .info-bottom .price {
   font-size: 20px;
   color: #0a0202;
   font-weight: lighter;
+  margin: 10px,70px;
 }
 ul.items li .info .info-bottom .add {
   border: 1px solid black;
@@ -346,6 +347,7 @@ footer button {
   font-weight: bold;
   font-size: 35px;
   color: black;
+  text-align: center;
 }
 .popup .popup-inner .popup-preview .input .bold2 {
   font-weight: bold;
@@ -353,6 +355,7 @@ footer button {
   margin: 0 auto;
   width: 50%;
   margin-bottom: 10px;
+  text-align: center;
 }
 .popup .popup-inner .popup-preview .input p {
   color: black;
